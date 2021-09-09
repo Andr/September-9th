@@ -18,3 +18,7 @@ p {
 p {
   font-weight: 100;
 }
+.shrek {
+  width: 250px;
+  border-radius: 100%;
+}
